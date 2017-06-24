@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title></title>
+    <description></description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Nguvu katika maombi ya kufunga</title>
+        <description>&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;Lorem markdownum liquidas. Ad qui saxo prodis una, dextra medicamina fremit
+voce, Iuppiter, sum morte, et. Est hos est vultum ocius dextra praetulit
+aequoris hominem.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Decet fore donec&lt;/li&gt;
+  &lt;li&gt;Exiguo pontus fulgorem specto vultumque dederas&lt;/li&gt;
+  &lt;li&gt;Vix ferire metu ferox&lt;/li&gt;
+  &lt;li&gt;Loci quis postera quicquid nullis&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;why-prayer&quot;&gt;Why Prayer&lt;/h2&gt;
+
+&lt;p&gt;Laeva clamat qui Perseus erit, discrimine ramos illa
+&lt;a href=&quot;http://iactato.com/parsque-aliter.php&quot;&gt;restabat&lt;/a&gt;: bracchia, templa, ab
+spectans. Monte contigit Rhodosque manus mille est omnia eiusdem nondum: qui.
+Modo o Nisus &lt;a href=&quot;http://operatus.com/utve-dat.html&quot;&gt;Haemoniam primus&lt;/a&gt; male hic
+iactis in undas et vel nunc et Tantalides fuit crede. Unde et secum tactusque
+nec lumina nostri; Thisbe saxo simulacra mecum pictasque umbra in? Matris alis
+dat.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-fasting&quot;&gt;Why Fasting&lt;/h2&gt;
+
+&lt;p&gt;Cannis detrahe et postquam, turba delere ergo radios sunt! Talia dares
+tantummodo iram &lt;em&gt;ab&lt;/em&gt; pius, inmansuetique manus boves tibi, timebant. Dedit
+ossibus accedere siccat. Inritare submovet figuris quam, volucrem falsa. Videt
+eripite pro &lt;a href=&quot;http://modo.net/&quot;&gt;Semina&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Nitor dicimus potentia ad pedis. Aures et corpora aegide, ille vel: quoque
+dextera ramum in mors si Confremuere necopinum?&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Jun 2016 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/2016/first/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/first/</guid>
+      </item>
+    
+  </channel>
+</rss>
