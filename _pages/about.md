@@ -13,7 +13,7 @@ permalink: /about/
 
 {::nomarkdown} 
 <figure class="site-profile">
-    <img src="{{ site.baseurl }}/assets/img/shija.png">
+    <img src="{{ site.baseurl }}/assets/img/shja.jpg">
 </figure>
 {:/}
 
